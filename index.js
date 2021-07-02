@@ -1,3 +1,3 @@
-const convertNumberToVnd = require('./convertNumberToVnd');
+const convertVndToNumber = require('./convertVndToNumber');
 
-console.log(convertNumberToVnd(10019888991111));
+console.log(convertVndToNumber(' 1.000.1-0 --0'));
